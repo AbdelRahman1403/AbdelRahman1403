@@ -1,6 +1,3 @@
-
-
-
 <h3 align="center">
   Welcome to AbdelRahman Ahmed Yassin's profile!
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
@@ -19,7 +16,7 @@
 
 
 ### Connect with Me :
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yassin?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+<a href="https://www.linkedin.com/in/abdelrahman-yassin-1ba916255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01099562215)
 <a href="mailto:AmrSaaayed74@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
@@ -39,4 +36,3 @@
 <a href="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
 </a>
-1
