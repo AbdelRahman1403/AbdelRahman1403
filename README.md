@@ -10,7 +10,6 @@
 
 - 🏢 I'm a Embedded System Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
 - ⚡ Fact: If you need to sucess in any thing , you should Regularly performing the five daily prayers in the mosque.
 
 
