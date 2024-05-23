@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to AbdelRahman Ahmed Yassin's profile!
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-</h3>
+</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
