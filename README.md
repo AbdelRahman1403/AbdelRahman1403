@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to AbdelRahman Ahmed Yassin's profile!
+   Welcome to <strong>AbdelRahman Ahmed Yassin's</strong> profile!
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </h2>
 
