@@ -1,6 +1,6 @@
 <h2 align="center">
    Welcome to <strong>AbdelRahman Ahmed Yassin's</strong> profile!
-  <img align="right" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="Coder GIF" width="380" height="280">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coder GIF" width="380" height="280">
 </h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
